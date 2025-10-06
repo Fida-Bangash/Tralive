@@ -27,7 +27,7 @@ session_start();
     <nav class="navbar navbar-expand-lg navbar-light">
       <div class="container-fluid">
         <!-- Logo -->
-        <img src="assets/images/logo.png.webp" alt="Logo" class="logo">
+        <img src="assets/images/logo.png.webp" alt="Logo" class="logo img-fluid">
 
         <!-- Mobile Toggler -->
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
@@ -37,7 +37,7 @@ session_start();
 
         <!-- Navbar Links -->
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
+          <ul class="navbar-nav m-auto mb-2 mb-lg-0">
             <li class="nav-item"><a class="nav-link active" href="#">Home</a></li>
 
             <!-- Dropdown with hover -->
