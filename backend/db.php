@@ -1,7 +1,7 @@
 <?php
 $host = "localhost";
-$user = "root";      // MySQL username
-$pass = "";          // MySQL password (XAMPP default: empty)
+$user = "root";      
+$pass = "";          
 $dbname = "tralive";
 
 $conn = new mysqli($host, $user, $pass, $dbname);

@@ -222,8 +222,8 @@ body::before {
 .success-msg {
     position: relative;
     z-index: 999;
-    color: #e74c3c;  
-    background: rgba(46, 204, 113, 0.1); 
+    color: #2ecc71;
+    background: rgba(46, 204, 113, 0.1);
     padding: 10px 15px;
     border-radius: 10px;
     margin: 10px 0;
